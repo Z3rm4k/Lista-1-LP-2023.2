@@ -15,3 +15,4 @@ if excesso > 0:
     print(f"Valor da multa a pagar: R$ {multa:.1f}")
 else:
     print("Peso dentro do limite permitido em São Paulo. Sem valor a pagar.")
+# Seria o João, um mentiroso? papo de pescador isso ai
